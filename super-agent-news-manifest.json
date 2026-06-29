@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[forbes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNnZNM2dDXzRibUR1d0RUNFV3Ujdyc0FEZW9EOThxcG5pR0lKQkVXV25NWXVuRnEzX3RxY0xoeENOSVE2cTl3V3VtNVdqbDBabzg0eUZZWmhnbDQyUTJ2aHFqcGRYeFcwbng4LTJQc0RaaEc4YlJFaDVwZjlSaV96SEtVME1KSzcxeXNKZldFTQ?oc=5)",
+    "[searchenginejournal.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_lines=3; max_width=1120px; bento_density=grid-auto-flow:dense verified; label_sweep=competitors+computer-use cache present; button_contrast=black/white pills AA+",
+  "generated_at": "2026-06-29T21:31:04.946391+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A conversion-focused niche landing page for ecommerce operators. It mirrors Super\u2019s best-performing comparison-page design while speaking directly to daily ecommerce workflows: checking orders, responding to support tickets, reconciling dashboards, and repeating admin tasks. The page uses current reporting on computer-use AI agents (especially Gemini 3.5 Flash) as evidence of market momentum, then positions Super as the sharper alternative for repeated computer-use workflows thanks to its reusable computer-use cache."
+}
